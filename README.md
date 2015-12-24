@@ -2,8 +2,7 @@ License
 -------
 GPL v2 
 
-
-
+### This repo has moved to a [new location](https://github.com/poolski/puppet-beats) as I'm rewriting the module from the ground up to cover all the other Beats modules Elastic have released. Please look there for the latest versions & issues. ###
 
 ## Example Use ##
 
